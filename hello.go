@@ -1,5 +1,4 @@
-package bad-go-module
-
+package hello
 func Hello() string {
     return "Hello, world."
 }
